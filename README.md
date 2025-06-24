@@ -54,6 +54,8 @@ We generated:
 📄 wallet_scores.csv: Full list of wallet scores
 
 📄 top_1000_wallet_scores.csv: Top 1,000 wallets (sorted)
+https://docs.google.com/spreadsheets/d/1bo1tt2XmLADdMKZLiuBTHYZbr2o7z9GE4rsWKUXail8/edit?usp=sharing
+
 
 📊 A histogram showing the distribution of credit scores
 
